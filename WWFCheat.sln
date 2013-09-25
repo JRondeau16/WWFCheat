@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WWFCheat", "WWFCheat\WWFCheat.csproj", "{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Debug|iPhone.Build.0 = Debug|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Release|iPhone.Build.0 = Release|iPhone
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{60FE285A-2D5C-4CB9-9514-FE876C7C11FA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WWFCheat\WWFCheat.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WWFCheat/Dictionary.cs">
+    <Files>
+      <File FileName="WWFCheat/WWFCheatViewController.cs" Line="32" Column="1" />
+      <File FileName="WWFCheat/Dictionary.cs" Line="182" Column="24" />
+      <File FileName="WWFCheat/WWFCheatViewController.designer.cs" Line="15" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="WWFCheat" expanded="True">
+            <Node name="Dictionary.cs" selected="True" />
+            <Node name="WWFCheatViewController.cs" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
